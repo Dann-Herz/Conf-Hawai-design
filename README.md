@@ -1,2 +1,2 @@
 # Conf-Hawai-design
-This is a design to a fictional Conf on Hawaii with bootstrap
+This is a design to a fictional Conf on Hawaii with Bootstrap and React
